@@ -1,6 +1,7 @@
-requests
+Srequests
 python-dotenv
 gradio
 pypdf
 openai
+
 openai-agents
