@@ -1,6 +1,0 @@
-openai
-pydantic
-gradio
-python-dotenv
-sendgrid
-duckduckgo-search
