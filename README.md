@@ -24,5 +24,36 @@ An autonomous stock market simulation featuring four distinct LLM personas execu
 
 ---
 
-## 📚 Course Progress
-...
+## 📚 Course Progress & Skills Mastered
+
+- [x] **Week 1: AI Foundations & Deployment**
+  - Prompt Engineering & Context Windows
+  - Gradio UI Development
+  - Cloud Deployment (Hugging Face Spaces)
+
+- [x] **Week 2: LLM APIs & Autonomous Research**
+  - Direct API Integration (OpenAI SDK)
+  - Native Tool Calling & Function Binding
+  - Web Scraping & Data Synthesizing
+
+- [x] **Week 3: Role-Based Multi-Agent Systems (CrewAI)**
+  - Task Delegation & Sequential Processing
+  - Designing rigid Agent Personas & Goals
+  - Simulating corporate team structures
+
+- [x] **Week 4: State Machines & Reflective AI (LangGraph)**
+  - Building Cyclic Graphs and State Machines
+  - Implementing the **Evaluator-Worker Pattern** (Self-Reflective AI)
+  - Stateful Memory (`MemorySaver`) for persistent threads
+  - Browser Automation via Playwright tools
+
+- [x] **Week 5: Dynamic Orchestration (Microsoft AutoGen)**
+  - Meta-prompting & Self-Replicating Code
+  - Asynchronous Agent Execution over gRPC Runtimes
+  - Autonomous Peer-to-Peer Agent Collaboration
+
+- [x] **Week 6: Decoupled Tool Architecture (MCP)**
+  - Implementing the **Model Context Protocol (MCP)**
+  - Building independent local and remote MCP Servers (`FastMCP`)
+  - Multi-Model routing (DeepSeek, Grok, Gemini, GPT-4)
+  - Real-time API integration (Polygon.io) & SQLite state management
